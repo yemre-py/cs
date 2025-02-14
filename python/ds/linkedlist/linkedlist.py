@@ -72,13 +72,7 @@ class LinkedList:
                 break
             temp = temp.next
             index += 1
-            
 
-            
-
-            
-
-        
         if temp is None:
             raise ValueError("index out of range")
         
